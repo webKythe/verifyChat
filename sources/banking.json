@@ -1,0 +1,240 @@
+{
+	"copyright":"webKythe",
+	"license": "",
+	"disclaimer":"While we try our best to serve you accurate contact details, we don't guarantee you anything. Make sure to crossverify before initiating contact",
+	"verifyWith":[
+		
+		{
+			"name":"Axis Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.axisbank.com/",
+			"supportPage":"https://application.axisbank.co.in/webforms/axis-support/index.aspx",
+			"email":"",
+			"twitter":"https://twitter.com/axisbank"
+			
+		},
+		{
+			"name":"Bandhan Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.bandhanbank.com/",
+			"supportPage":"https://www.bandhanbank.com/contact-us#tab-1",
+			"email":"customercare@bandhanbank.com",
+			"twitter":"https://twitter.com/bandhanbank_in"
+			
+			
+		},
+		{
+			"name":"CSB Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.csb.co.in/",
+			"supportPage":"https://www.csb.co.in/contact-us",
+			"email":"customercare@csb.co.in",
+			"twitter":""
+			
+			
+		},
+		{
+			"name":"City Union Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.cityunionbank.com/",
+			"supportPage":"https://www.cityunionbank.com/personal-banking/products-and-services/cub-care",
+			"email":"customercare@cityunionbank.com",
+			"twitter":"https://twitter.com/cubltd"
+			
+			
+		},
+		{
+			"name":"DCB Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.dcbbank.com/",
+			"supportPage":"https://www.dcbbank.com/contact-us",
+			"email":"customercare@dcbbank.com",
+			"twitter":"https://twitter.com/DCBBank"
+			
+			
+		},
+		{
+			"name":"Dhanalaxmi Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.dhanbank.com/",
+			"supportPage":"https://www.dhanbank.com/customer-care/",
+			"email":"customercare@dhanbank.co.in",
+			"twitter":""
+			
+			
+		},
+		{
+			"name":"Federal Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.federalbank.co.in/",
+			"supportPage":"https://www.federalbank.co.in/contact-center",
+			"email":"https://twitter.com/federalbankltdcontact@federalbank.co.in",
+			"twitter":"https://twitter.com/federalbankltd"
+			
+			
+		},
+		{
+			"name":"HDFC Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.hdfcbank.com/",
+			"supportPage":"https://www.hdfcbank.com/personal/need-help/customer-care",
+			"email":"",
+			"twitter":"https://twitter.com/Hdfc_Bank"
+			
+			
+		},
+		{
+			"name":"ICICI Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.icicibank.com/",
+			"supportPage":"https://www.icicibank.com/customer-care",
+			"email":"",
+			"twitter":"https://twitter.com/ICICIBank_Care"
+			
+			
+		},
+		{
+			"name":"IDBI Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.idbibank.in/",
+			"supportPage":"https://www.idbibank.in/contact-us.aspx",
+			"email":"",
+			"twitter":"https://twitter.com/IDBIBankCares/"
+			
+			
+		},
+		{
+			"name":"IDFC First Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.idfcfirstbank.com/",
+			"supportPage":"https://www.idfcfirstbank.com/customer-care",
+			"email":"",
+			"twitter":"https://twitter.com/IDFCFIRSTBank"
+			
+			
+		},
+		{
+			"name":"IndusInd Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.indusind.com/in/en/personal.html#",
+			"supportPage":"https://www.indusind.com/in/en/personal/reach-us.html",
+			"email":"reachus@indusind.com",
+			"twitter":"https://twitter.com/myindusindbank"
+			
+			
+		},
+				{
+			"name":"Jammu & Kashmir Bank / J&K Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.jkbank.com/index.html",
+			"supportPage":"https://www.jkbank.com/others/common/contactUs.php",
+			"email":"",
+			"twitter":"https://twitter.com/JandKBank"
+			
+			
+		},
+		{
+			"name":"Karnataka Bank",
+			"dataType":"Banking: Private",
+			"url":"https://karnatakabank.com/",
+			"supportPage":"https://karnatakabank.com/contact-us",
+			"email":"info@ktkbank.com",
+			"twitter":"https://twitter.com/karnatakabank"
+			
+			
+		},
+		{
+			"name":"Karur Vyasa Bank / KVB",
+			"dataType":"Banking: Private",
+			"url":"https://www.kvb.co.in/",
+			"supportPage":"https://www.kvb.co.in/contact-us/",
+			"email":"customersupport@kvbmail.com",
+			"twitter":""
+			
+			
+		},
+		{
+			"name":"Kotak Mahindra Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.kotak.com/en/home.html",
+			"supportPage":"https://www.kotak.com/en/customer-service/contact-us/email-us.html",
+			"email":"",
+			"twitter":"https://twitter.com/kotakbankltd"
+			
+			
+		},
+		{
+			"name":"Nainital Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.nainitalbank.co.in/english/home.aspx",
+			"supportPage":"",
+			"email":"",
+			"twitter":"https://twitter.com/LtdNainital"
+			
+			
+		},
+		{
+			"name":"RBL Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.rblbank.com/",
+			"supportPage":"https://www.rblbank.com/contact-us",
+			"email":"customercare@rblbank.com",
+			"twitter":"https://twitter.com/RBLBankCares"
+					
+			
+		},
+		{
+			"name":"South Indian Bank / SIB",
+			"dataType":"Banking: Private",
+			"url":"https://www.southindianbank.com/",
+			"supportPage":"https://www.southindianbank.com/helpDesk/helpDeskDetails.aspx?hdId=18&LinkIdLvl3=3826",
+			"email":"customercare@sib.co.in",
+			"twitter":"https://twitter.com/OfficialSIBLtd"
+			
+			
+		},
+		{
+			"name":"Tamilnad Mercantile Bank / TMB",
+			"dataType":"Banking: Private",
+			"url":"https://www.tmb.in/",
+			"supportPage":"https://www.tmb.in/contact-us.aspx",
+			"email":"customerservice@tmbank.in",
+			"twitter":"https://twitter.com/tmbankltd"
+			
+			
+		},
+		{
+			"name":"Yes Bank",
+			"dataType":"Banking: Private",
+			"url":"https://www.yesbank.in/",
+			"supportPage":"https://www.yesbank.in/contact-us",
+			"email":"yestouch@yesbank.in",
+			"twitter":"https://twitter.com/yesbank"
+			
+			
+		}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+]
+	
+	
+}
