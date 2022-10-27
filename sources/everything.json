@@ -212,6 +212,126 @@
 			"twitter":"https://twitter.com/yesbank"
 			
 			
+		},
+		{
+			"name":"Bank Of Baroda / BOB",
+			"dataType":"Banking: Public",
+			"url":"https://www.bankofbaroda.in/",
+			"supportPage":"https://www.bankofbaroda.in/customer-support",
+			"email":"",
+			"twitter":"https://twitter.com/bankofbaroda"
+
+
+		},
+		{
+			"name":"Bank Of India",
+			"dataType":"Banking: Public",
+			"url":"https://www.bankofindia.co.in/",
+			"supportPage":"https://www.bankofindia.co.in/CustomerCare",
+			"email":"",
+			"twitter":"https://twitter.com/BankofIndia_IN"
+
+
+		},
+		{
+			"name":"Bank Of Maharashtra",
+			"dataType":"Banking: Public",
+			"url":"https://bankofmaharashtra.in/",
+			"supportPage":"https://bankofmaharashtra.in/internet-banking-helpdesk",
+			"email":"https://bankofmaharashtra.in/internet-banking-helpdesk",
+			"twitter":"https://twitter.com/mahabank"
+
+
+		},
+		{
+			"name":"Canara Bank",
+			"dataType":"Banking: Public",
+			"url":"https://canarabank.com/",
+			"supportPage":"https://canarabank.com/User_page.aspx?nid=14",
+			"email":"",
+			"twitter":"https://twitter.com/canarabank"
+
+
+		},
+		{
+			"name":"Central Bank Of India",
+			"dataType":"Banking: Public",
+			"url":"https://www.centralbankofindia.co.in/en",
+			"supportPage":"https://www.centralbankofindia.co.in/en/customer_care",
+			"email":"complaints@centralbank.co.in",
+			"twitter":"https://twitter.com/centralbank_in"
+
+
+		},
+		{
+			"name":"Indian Bank",
+			"dataType":"Banking: Public",
+			"url":"https://www.indianbank.in/",
+			"supportPage":"https://www.indianbank.in/departments/online-customer-complaints/#!",
+			"email":"",
+			"twitter":"https://twitter.com/myindianbank"
+
+
+		},
+		{
+			"name":"Indian Overseas Bank / IOB",
+			"dataType":"Banking: Public",
+			"url":"https://www.iob.in/",
+			"supportPage":"https://www.iob.in/Customers_Corner.aspx",
+			"email":"",
+			"twitter":"https://twitter.com/iobindia"
+
+
+		},
+		{
+			"name":"Punjab & Sind Bank / PSB",
+			"dataType":"Banking: Public",
+			"url":"https://punjabandsindbank.co.in/",
+			"supportPage":"https://punjabandsindbank.co.in/content/customer-care",
+			"email":"",
+			"twitter":"https://twitter.com/PSBIndOfficial"
+
+
+		},
+		{
+			"name":"Punjab National Bank / PNB",
+			"dataType":"Banking: Public",
+			"url":"https://www.pnbindia.in/",
+			"supportPage":"https://www.pnbindia.in/contact-us.html",
+			"email":"care@pnb.co.in",
+			"twitter":"https://twitter.com/pnbindia"
+
+
+		},
+		{
+			"name":"State Bank Of India / SBI",
+			"dataType":"Banking: Public",
+			"url":"https://bank.sbi/",
+			"supportPage":"https://bank.sbi/web/customer-care/contact-us",
+			"email":"customercare@sbi.co.in",
+			"twitter":"https://twitter.com/TheOfficialSBI"
+
+
+		},
+		{
+			"name":"UCO Bank",
+			"dataType":"Banking: Public",
+			"url":"https://www.ucobank.com/English/home.aspx",
+			"supportPage":"https://www.ucobank.com/English/Customer-Care-Center.aspx",
+			"email":"",
+			"twitter":"https://twitter.com/UCOBankOfficial"
+
+
+		},
+		{
+			"name":"Union Bank of India / UBI",
+			"dataType":"Banking: Public",
+			"url":"https://www.unionbankofindia.co.in/",
+			"supportPage":"https://www.unionbankofindia.co.in/english/contact-us.aspx",
+			"email":"",
+			"twitter":"https://twitter.com/UnionBankTweets/"
+
+
 		}
 			
 			
