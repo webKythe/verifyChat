@@ -4,9 +4,9 @@
   <h3><a href="https://github.com/webKythe/verifyChat"> verifyChat</a> makes it easy and safer for users to contact customer care for their favourite services, without any fear of frauds.</h3> 
 </div>
 
-<div align="center">
-A well-maintained database where contributors can easily verify and report error. The data is and will always be enitrely open, hosted on Github, so you can double check or triple check on the genuinity of the result. 
-</div>
+
+A well-maintained and transparent database where contributors can easily [verify](https://github.com/webKythe/verifyChat/tree/main/sources), update and [report error](https://github.com/webKythe/verifyChat/issues). The data, hosted on Github, is and always will be open for verification and transparency so you can double check or triple check on the genuinity of the result. 
+
 
 
 ## <ins>Quick Links</ins>
@@ -23,7 +23,11 @@ A well-maintained database where contributors can easily verify and report error
 
 
 Copyright © 2022 [WebKythe](https://github.com/webKythe) &nbsp;  &nbsp; 
-Email: <webKythe@proton.me>
+Email: <webverts@proton.me>
+
+The copyright extends to the person using the proxy name of [webVerts](https://github.com/webVerts).
+
+
 
 ## License
 
@@ -35,7 +39,7 @@ You are free to use the data for personal, non-commercial purposes. The license 
 
 
  #### Disclaimer
- While we try our best to serve you accurate contact details, we don't guarantee you anything. In no event shall the [Author](https://github.com/webVerts), or any other contributors be liable for any claim, dmages or any liability.
+ While we try our best to serve you accurate contact details, we don't guarantee you anything. In no event shall the [Author](https://github.com/webVerts), or any other contributors be liable for any claim, damages or any liability.
  
  THE SOFTWARE, DATA & SERVICE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
