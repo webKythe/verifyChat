@@ -34,6 +34,7 @@ The copyright extends to the person using the proxy name of [webVerts](https://g
 
 You are free to use the data for personal, non-commercial purposes. The license is granted under the following conditions.
 
+* Confirm: Please email me before using the data, with the purpose of your usage.
 * Credit: Use of the data in any format must be credited to the copyright owner.
 * Trademarks: This license does not grant you any right in the trademarks, service marks, brand names or logos of Licensor.
 * Licensor has the right to teminate the contract anytime, incase the licensee replicate a similar or competing service.
