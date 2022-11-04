@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><a href="https://github.com/webKythe/verifyChat"> verifyChat</a> makes it easy and safer for users to contact customer care for their favourite services, without any fear of frauds.</h3> 
+  <h3><a href="https://webkythe.github.io/verifyChat/"> verifyChat</a> makes it easy and safer for users to contact customer care for their favourite services, without any fear of frauds.</h3> 
 </div>
 
 
@@ -11,12 +11,12 @@ A well-maintained and transparent database where contributors can easily [verify
 
 
 ## <ins>Quick Links</ins>
- * [Website](#)
- * [Data Source](#)
+ * [Website](https://webkythe.github.io/verifyChat/)
+ * [Data Source](https://github.com/webKythe/verifyChat/tree/main/sources)
  * [Contributing Guide](#)
- * [Disclaimer]()
- * [Copyright]()
- * [License]()
+ * [Disclaimer](https://github.com/webKythe/verifyChat#disclaimer)
+ * [Copyright](https://github.com/webKythe/verifyChat#copyright)
+ * [License](https://github.com/webKythe/verifyChat#license)
  
 
 
